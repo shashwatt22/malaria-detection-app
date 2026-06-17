@@ -1,0 +1,14 @@
+# Python background files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# OS temporary files
+.DS_Store
+Thumbs.db
